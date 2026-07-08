@@ -1,6 +1,6 @@
 cask "mcode" do
-  version "0.2.8"
-  sha256 "08a3fc67cf4a30eb3914799827a79bc8214a01ca59651dbb55897ffff3fd991e"
+  version "0.2.9"
+  sha256 "8681b5fce3e4a9a44b2549d75d1a2cfaf47412b691187bf081239ebe51290e57"
 
   url "https://github.com/roman10/mcode/releases/download/v#{version}/mcode-#{version}-arm64.dmg"
   name "mcode"
